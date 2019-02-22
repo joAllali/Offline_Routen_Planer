@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Offline_Routen_Planer</string>
+    <string name="von" />
+    <string name="von_view">Von:</string>
+    <string name="nach" />
+    <string name="nach_view" />
+    <string name="nach_view2">Nach:</string>
+    <string name="zeit_view">Zeit:</string>
+    <string name="zeit" />
+    <string name="datum_view">Datum:</string>
+    <string name="datum" />
+    <string name="output" />
+</resources>
